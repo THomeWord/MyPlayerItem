@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>24gf-playlist2.png</file>
+        <file>24gf-volumeDisable.png</file>
+        <file>24gf-volumeHigh.png</file>
+        <file>24gf-volumeLow.png</file>
+        <file>24gf-volumeMiddle.png</file>
+        <file>24gl-folderOpen.png</file>
+        <file>24gl-folderPlus.png</file>
+        <file>guanyu.png</file>
+        <file>jiantou_shangyiye_o.png</file>
+        <file>jiantou_xiayiye_o.png</file>
+        <file>kaishi.png</file>
+        <file>shiyongbangzhu.png</file>
+        <file>zanting.png</file>
+        <file>zanting_1.png</file>
+        <file>stop.png</file>
+        <file>IKUN.png</file>
+        <file>QTIkun1.png</file>
+        <file>QTIkun2.png</file>
+        <file>MyPLayer.pdf</file>
+    </qresource>
+</RCC>
